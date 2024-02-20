@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tutorialmod:kevin_block"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:kevin",
+    "count": 9
+  }
+}

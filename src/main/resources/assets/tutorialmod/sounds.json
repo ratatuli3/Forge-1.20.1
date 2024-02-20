@@ -1,0 +1,46 @@
+{
+  "kevin_detector_found_ore": {
+    "subtitles": "sounds.tutorialmod.kevin_detector_found_ore",
+    "sounds": [
+      "tutorialmod:kevin_detector_found_ore"
+    ]
+  },
+  "kevin_sound_block_break": {
+    "subtitle": "sounds.tutorialmod.kevin_sound_block_break",
+    "sounds": [
+      "tutorialmod:kevin_sound_block_break"
+    ]
+  },
+  "kevin_sound_block_step": {
+    "subtitle": "sounds.tutorialmod.kevin_sound_block_step",
+    "sounds": [
+      "tutorialmod:kevin_sound_block_step"
+    ]
+  },
+  "kevin_sound_block_place": {
+    "subtitle": "sounds.tutorialmod.kevin_sound_block_place",
+    "sounds": [
+      "tutorialmod:kevin_sound_block_place"
+    ]
+  },
+  "kevin_sound_block_hit": {
+    "subtitle": "sounds.tutorialmod.kevin_sound_block_hit",
+    "sounds": [
+      "tutorialmod:kevin_sound_block_hit"
+    ]
+  },
+  "kevin_sound_block_fall": {
+    "subtitle": "sounds.tutorialmod.kevin_sound_block_fall",
+    "sounds": [
+      "tutorialmod:kevin_sound_block_fall"
+    ]
+  },
+  "kevin_sound_block_use": {
+    "subtitle": "sounds.tutorialmod.kevin_sound_block_use",
+    "sounds": [
+      "tutorialmod:kevin_sound_block_use",
+      "tutorialmod:kevin_sound_block_use_2",
+      "tutorialmod:kevin_sound_block_use_3"
+    ]
+  }
+}
